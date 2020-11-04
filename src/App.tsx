@@ -12,7 +12,7 @@ function App() {
 				</p>
 				<a
 					className="App-link"
-					href="http://192.168.50.121:3000"
+					href="https://sp0033212000.github.io/fixedProblem"
 					target="_blank"
 					rel="noopener noreferrer"
 				>
