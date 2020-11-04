@@ -16,7 +16,7 @@ function App() {
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					Learn React
+					Click me to open new tab
 				</a>
 			</header>
 			<button>Button</button>
