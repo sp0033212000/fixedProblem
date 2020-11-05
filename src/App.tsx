@@ -74,7 +74,7 @@ function App() {
 				</button>
 				<a
 					className="App-link"
-					href="/"
+					href="https://sp0033212000.github.io/fixedProblem/"
 					target="_blank"
 					rel="noopener noreferrer"
 				>
